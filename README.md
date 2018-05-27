@@ -1,5 +1,5 @@
 # Módulo Stone Magento2
-O módulo Stone é um método de pagamento para Magento 2, já preparado para gerar e reconhecer pagamentos por cartões de crédito brasileiros.
+O módulo [Stone](https://www.mageup.com/modulo-para-magento2-stone.html) é um método de pagamento para Magento 2, já preparado para gerar e reconhecer pagamentos por cartões de crédito brasileiros.
 
 A Stone é uma adquirente de meios de pagamento, autorizada pela Visa, Mastercard, Hipercard e Elo a credenciar lojistas, processar e autorizar transações de cartão de crédito com essas bandeiras e outras. Agora permitindo a geração de Boletos também.
 
