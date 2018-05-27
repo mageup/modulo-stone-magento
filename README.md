@@ -12,6 +12,7 @@ Através de diversos meios de captura, o módulo para Magento 2 Stone processa a
 * Nossos produtos foram projetados para suportar volumes imensos e picos de transação.
 * Pagamentos com cartões Visa e Master.
 * Definir a quantidade de parcelas.
+* Nosso módulo também está habilitado para geração de boletos. 
 
 ## Compatível com as versões:
 * 2.1.x
