@@ -5,7 +5,7 @@ A Stone é uma adquirente de meios de pagamento, autorizada pela Visa, Mastercar
 
 Através de diversos meios de captura, o módulo para Magento 2 Stone processa a transação realizada com cartões de crédito e garante o pagamento ao lojista. Além disso, oferece diversos serviços para aumentar as vendas dos clientes e melhorar o controle de seus recebimentos, incluindo a geração de Boletos.
 
-## As principais características do módulo:
+## Principais características do módulo:
 * Capaz de suportar 10.000 transações por segundo.
 * Você tem a opção de separar a autorização da captura, que fica pendente até você confirmar.
 * O cliente permanece em seu site durante todo o fluxo de compra.
